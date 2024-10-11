@@ -35,6 +35,7 @@ div{
 
 .kazimir{
 	font-size: 30px;
+	margit: 10 10 10 10;
 }
 #Guro{
 	boreder:1px solid black;
@@ -43,14 +44,6 @@ div{
 	margin-left: 5%;
 }
 .guro{
-	font-size: 30px;
-}
-#Shagal{
-	boreder:1px solid black;
-	width: 340px;
-	margin-left: 5%;
-}
-.shagal{
 	font-size: 30px;
 }
 table{
